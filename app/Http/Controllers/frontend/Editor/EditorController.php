@@ -91,7 +91,7 @@ public function add_reviewers_selected_list(Request $request, $orderNumber)
             'editorType'	=> $editorType,
             'editorID'		=> $editorID,
             'reviewerID'	=> $reviewerID,
-            'reviewerType'	=> $reviewerType,
+            'reviewerType'	=> $reviewerType, 
             'orderNumber' => $orderNumber
         ]);
    
@@ -101,3 +101,5 @@ public function add_reviewers_selected_list(Request $request, $orderNumber)
 }
 
 }
+
+//this is dummmy comment
