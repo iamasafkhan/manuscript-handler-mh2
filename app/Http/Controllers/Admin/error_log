@@ -1,0 +1,1 @@
+[02-Jul-2022 19:25:28 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 5.6.40. in /home/softmalakand/manuscript-handler.malakandsoft.com/vendor/composer/platform_check.php on line 25
